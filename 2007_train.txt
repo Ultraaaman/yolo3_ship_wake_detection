@@ -1,0 +1,385 @@
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0001.jpg 308,219,321,292,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0002.jpg 207,604,294,711,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0003.jpg
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0004.jpg 477,302,605,384,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0005.jpg 49,256,94,356,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0006.jpg 517,652,526,731,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0008.jpg 332,381,349,435,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0010.jpg 220,221,304,253,0 614,128,725,183,0 141,261,162,276,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0012.jpg 574,163,599,263,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0013.jpg 58,210,103,235,0 169,314,229,351,0 168,275,190,296,0 7,440,24,464,0 403,466,428,492,0 432,455,447,472,0 592,582,619,616,0 545,541,569,569,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0014.jpg 449,306,483,339,0 810,239,855,296,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0015.jpg 203,507,332,657,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0016.jpg 356,48,425,149,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0018.jpg 47,161,70,232,0 502,365,559,386,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0019.jpg 191,98,231,204,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0020.jpg 100,47,117,136,0 268,270,277,311,0 209,428,241,526,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0021.jpg 350,634,415,673,0 657,657,699,691,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0022.jpg 276,342,291,427,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0023.jpg 467,358,484,448,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0024.jpg 175,441,221,500,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0025.jpg 194,632,211,687,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0026.jpg 204,78,267,115,0 795,165,813,236,0 763,359,854,425,0 413,763,463,800,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0027.jpg 272,155,326,243,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0028.jpg 722,375,872,479,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0029.jpg 73,582,116,644,0 298,73,342,126,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0030.jpg 40,77,54,193,0 608,83,668,147,0 529,546,574,576,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0031.jpg 519,757,556,838,0 729,83,764,145,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0032.jpg 355,12,389,60,0 148,321,187,367,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0033.jpg 741,13,754,67,0 625,332,685,477,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0034.jpg 563,645,570,678,0 694,328,705,373,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0036.jpg 283,519,368,608,0 570,321,597,381,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0037.jpg 343,507,372,594,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0038.jpg 387,502,413,640,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0039.jpg 137,73,191,195,0 471,375,494,487,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0040.jpg 485,711,520,763,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0041.jpg 72,424,84,478,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0042.jpg 227,282,258,358,0 579,206,605,253,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0043.jpg 23,408,39,463,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0044.jpg 395,203,431,306,0 200,350,246,434,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0045.jpg 582,369,636,450,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0046.jpg 139,176,180,209,0 26,128,43,157,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0047.jpg 509,132,555,239,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0048.jpg 249,606,302,707,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0049.jpg 475,660,535,706,0 1,296,64,364,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0050.jpg 418,295,474,333,0 524,347,549,413,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0051.jpg 396,461,413,524,0 266,90,299,141,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0052.jpg 282,1,295,50,0 342,105,357,165,0 229,342,240,387,0 275,333,288,379,0 18,572,29,605,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0055.jpg 53,349,74,430,0 630,225,658,294,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0056.jpg 11,370,29,455,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0057.jpg 294,213,329,282,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0059.jpg 481,295,538,367,0 247,554,267,582,0 655,476,685,533,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0060.jpg 25,91,77,167,0 337,103,401,171,0 407,528,484,604,0 271,668,305,733,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0061.jpg 488,7,629,213,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0062.jpg 523,163,558,255,0 578,145,602,196,0 601,382,626,429,0 119,265,140,311,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0063.jpg 509,183,579,296,0 608,9,623,83,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0064.jpg 137,658,178,758,0 23,16,72,68,0 203,370,278,471,0 332,314,416,422,0 372,641,417,760,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0065.jpg 440,354,469,520,0 493,120,552,186,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0066.jpg 24,171,195,384,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0068.jpg 179,142,237,261,0 345,59,408,85,0 206,712,248,807,0 216,99,238,127,0 103,781,122,802,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0069.jpg 299,339,369,391,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0070.jpg 180,575,197,637,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0071.jpg 788,70,809,127,0 506,120,521,194,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0072.jpg 441,72,470,176,0 469,304,514,440,0 610,350,644,508,0 720,229,762,376,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0073.jpg 426,4,451,60,0 579,48,598,125,0 486,755,506,826,0 765,708,795,779,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0074.jpg 760,197,824,347,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0075.jpg 584,673,640,809,0 605,282,634,360,0 674,181,703,263,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0076.jpg 675,266,739,504,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0078.jpg 175,524,192,596,0 637,559,662,605,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0079.jpg 59,49,86,92,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0080.jpg 354,430,422,496,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0082.jpg 315,78,339,134,0 413,331,438,409,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0083.jpg 477,45,584,105,0 37,453,137,550,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0086.jpg 439,497,502,644,0 698,320,774,371,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0087.jpg 402,442,428,488,0 142,354,156,373,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0088.jpg 207,340,248,430,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0089.jpg 12,59,77,112,0 263,360,329,411,0 772,405,869,503,0 197,634,254,713,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0090.jpg 69,82,119,155,0 685,585,721,638,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0092.jpg 346,868,426,937,0 908,614,952,669,0 29,639,57,673,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0093.jpg 158,15,186,100,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0094.jpg 271,348,366,423,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0096.jpg 229,62,286,165,0 658,763,777,802,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0097.jpg 383,506,455,617,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0098.jpg 565,567,673,606,0 527,701,642,758,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0099.jpg 530,607,597,654,0 272,715,358,764,0 9,612,72,643,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0100.jpg 220,59,332,219,0 524,485,614,603,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0101.jpg 363,818,576,869,0 32,479,255,538,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0102.jpg 104,79,140,149,0 306,102,320,143,0 374,294,389,337,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0104.jpg 15,1,35,124,0 318,11,336,131,0 350,37,372,140,0 1,457,13,585,0 543,42,552,87,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0105.jpg 272,624,302,771,0 669,80,685,170,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0106.jpg 312,444,331,548,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0107.jpg 637,276,654,374,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0110.jpg 281,149,299,226,0 198,283,223,348,0 318,668,346,777,0 379,839,436,943,0 345,619,368,647,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0111.jpg 17,295,50,371,0 275,648,297,731,0 199,792,224,867,0 78,145,88,188,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0112.jpg 487,35,543,125,0 234,8,268,57,0 216,126,235,159,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0114.jpg 468,150,543,222,0 275,478,295,507,0 375,707,408,740,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0115.jpg 42,564,72,582,0 211,561,287,579,0 455,669,523,688,0 597,738,693,780,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0118.jpg 50,84,124,158,0 307,737,410,768,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0119.jpg 47,452,90,489,0 49,700,90,737,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0121.jpg 100,161,164,210,0 297,485,338,536,0 306,656,346,677,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0122.jpg 204,214,314,242,0 394,278,462,296,0 372,267,444,286,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0123.jpg 940,354,993,382,0 647,287,687,319,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0125.jpg 289,436,337,505,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0126.jpg 136,98,193,158,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0128.jpg 92,30,157,83,0 211,727,328,815,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0129.jpg 337,232,378,409,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0130.jpg 522,335,565,483,0 476,750,559,839,0 650,56,680,89,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0132.jpg 535,402,602,489,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0133.jpg 114,293,227,383,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0134.jpg 458,165,512,206,0 154,295,210,337,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0136.jpg 431,339,535,432,0 512,627,610,719,0 297,532,434,647,0 120,316,255,408,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0137.jpg 124,63,190,181,0 30,481,79,602,0 113,339,138,388,0 709,201,734,236,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0138.jpg 79,45,146,85,0 166,163,230,194,0 272,206,367,244,0 488,352,519,368,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0139.jpg 618,490,694,573,0 500,648,545,705,0 470,827,521,908,0 754,256,783,290,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0140.jpg 95,444,129,492,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0141.jpg 441,108,476,170,0 451,595,486,630,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0142.jpg 227,429,325,484,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0143.jpg 294,305,321,366,0 583,580,596,621,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0144.jpg 149,489,179,568,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0145.jpg 505,393,629,444,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0146.jpg 59,594,76,685,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0149.jpg 364,269,400,367,0 698,9,719,54,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0150.jpg 511,314,534,396,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0151.jpg 668,390,692,514,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0152.jpg 430,344,449,456,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0154.jpg 208,367,235,465,0 205,619,219,696,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0155.jpg 259,385,275,444,0 359,534,375,628,0 351,28,361,74,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0156.jpg 11,210,79,287,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0157.jpg 194,158,222,267,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0158.jpg 124,232,147,280,0 91,301,114,359,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0159.jpg 546,565,586,700,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0160.jpg 727,23,761,96,0 431,270,557,473,0 484,146,530,219,0 610,466,701,708,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0161.jpg 263,527,378,587,0 346,831,407,855,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0162.jpg 698,527,800,624,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0163.jpg 1,552,73,579,0 71,378,150,416,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0164.jpg 587,141,652,189,0 600,196,642,230,0 113,242,148,264,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0167.jpg 415,240,448,293,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0168.jpg 486,309,519,404,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0169.jpg 202,521,225,618,0 225,677,239,730,0 324,581,341,664,0 313,482,326,568,0 448,90,457,127,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0170.jpg 43,672,65,724,0 206,104,218,183,0 313,99,322,152,0 324,174,337,244,0 227,258,236,299,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0171.jpg 568,119,576,161,0 599,208,613,264,0 636,494,648,529,0 579,719,595,761,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0172.jpg 27,416,77,472,0 179,385,223,440,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0173.jpg 473,413,535,458,0 656,728,717,767,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0175.jpg 554,573,596,620,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0176.jpg 329,275,392,435,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0177.jpg 244,560,312,603,0 427,90,476,225,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0178.jpg 400,130,473,152,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0179.jpg 568,343,605,410,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0180.jpg 422,667,455,722,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0182.jpg 31,563,91,591,0 36,153,104,179,0 7,110,91,127,0 289,146,360,172,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0183.jpg 311,57,348,128,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0184.jpg 208,595,239,675,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0186.jpg 305,705,321,745,0 314,409,333,500,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0187.jpg 297,108,320,195,0 640,145,668,209,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0188.jpg 471,274,503,374,0 361,505,383,554,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0190.jpg 524,302,564,430,0 438,68,464,188,0 478,141,527,230,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0191.jpg 124,122,159,184,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0194.jpg 480,48,518,146,0 493,470,531,542,0 643,562,667,621,0 95,645,117,689,0 336,369,372,445,0 175,57,191,86,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0197.jpg 5,239,42,315,0 51,5,92,89,0 56,404,90,495,0 202,412,264,470,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0198.jpg 418,273,457,319,0 570,213,600,242,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0199.jpg 206,48,282,128,0 66,440,107,532,0 255,290,328,353,0 736,663,795,716,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0200.jpg 635,724,665,791,0 667,8,693,44,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0201.jpg 520,397,606,528,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0202.jpg 15,645,104,727,0 825,654,880,719,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0203.jpg 324,105,355,204,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0204.jpg 56,29,106,118,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0205.jpg 79,259,123,369,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0206.jpg 228,145,266,263,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0207.jpg 341,124,360,203,0 643,305,693,377,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0208.jpg 571,453,620,525,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0210.jpg 577,246,598,298,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0211.jpg 459,279,489,323,0 546,225,579,279,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0212.jpg 240,223,342,262,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0213.jpg 279,305,361,361,0 69,393,126,454,0 105,469,132,502,0 79,589,100,610,0 82,613,100,629,0 102,612,115,627,0 134,666,151,690,0 436,620,477,661,0 417,780,439,806,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0214.jpg 92,770,168,826,0 775,570,828,625,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0215.jpg 431,378,522,495,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0216.jpg 327,392,409,460,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0217.jpg 470,429,517,491,0 497,788,569,839,0 10,4,43,50,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0218.jpg 347,125,383,192,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0220.jpg 165,693,232,760,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0221.jpg 487,359,532,392,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0222.jpg 196,422,217,508,0 619,231,639,283,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0223.jpg 145,125,223,322,0 346,240,413,377,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0224.jpg 468,611,489,661,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0226.jpg 607,749,625,821,0 665,418,681,534,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0227.jpg 594,128,615,207,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0228.jpg 727,285,775,363,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0229.jpg 205,159,224,294,0 321,331,372,429,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0230.jpg 18,52,37,124,0 78,23,118,100,0 601,61,618,144,0 368,641,385,739,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0231.jpg 553,361,586,422,0 258,149,274,220,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0232.jpg 470,593,506,691,0 608,596,639,669,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0233.jpg 228,397,264,500,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0234.jpg 84,300,177,336,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0235.jpg 480,145,521,205,0 395,87,471,113,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0236.jpg 433,346,570,435,0 711,170,790,215,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0237.jpg 275,156,309,192,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0239.jpg 106,473,167,500,0 436,677,484,711,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0240.jpg 346,522,396,587,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0241.jpg 304,295,344,426,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0243.jpg 316,420,358,530,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0244.jpg 250,58,321,153,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0245.jpg 265,87,309,136,0 311,74,367,147,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0246.jpg 379,343,451,417,0 573,474,674,588,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0248.jpg 599,88,660,120,0 671,74,758,122,0 250,348,273,420,0 226,437,247,492,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0249.jpg 372,211,406,271,0 606,117,624,188,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0251.jpg 283,402,336,455,0 571,6,620,121,0 687,611,704,676,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0253.jpg 263,227,342,290,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0255.jpg 764,40,798,114,0 776,748,806,806,0 22,646,45,719,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0256.jpg 177,150,322,199,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0257.jpg 301,184,352,207,0 391,159,463,194,0 25,271,97,304,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0258.jpg 265,428,341,476,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0260.jpg 43,242,131,285,0 483,117,577,167,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0261.jpg 239,188,272,303,0 322,372,350,457,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0262.jpg
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0263.jpg 216,53,234,107,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0264.jpg 318,329,359,447,0 445,549,469,636,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0266.jpg 203,176,275,279,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0267.jpg 342,7,390,70,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0268.jpg 129,191,198,228,0 46,302,115,364,0 465,94,496,144,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0269.jpg 552,73,566,195,0 607,312,623,443,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0270.jpg 375,13,397,100,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0272.jpg 283,324,336,353,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0273.jpg 437,416,476,548,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0274.jpg 563,150,585,222,0 611,30,632,111,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0276.jpg 361,190,430,217,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0277.jpg 431,362,525,379,0 50,130,143,160,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0280.jpg 131,392,160,485,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0281.jpg 406,450,491,571,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0282.jpg 266,89,305,195,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0283.jpg 271,16,306,83,0 381,297,414,385,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0284.jpg 115,173,175,245,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0285.jpg 290,473,331,603,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0286.jpg 240,238,267,322,0 360,239,371,287,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0287.jpg 437,191,487,308,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0288.jpg 408,339,419,421,0 418,440,432,491,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0290.jpg 61,4,171,107,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0293.jpg 100,249,227,425,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0294.jpg 44,330,102,399,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0295.jpg 181,123,259,164,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0296.jpg 230,173,307,236,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0297.jpg 364,55,450,92,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0298.jpg 257,344,286,409,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0299.jpg 216,341,239,445,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0301.jpg 228,348,306,436,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0304.jpg 419,373,480,418,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0305.jpg 135,549,177,607,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0307.jpg 341,365,460,571,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0309.jpg 235,500,306,563,0 339,489,410,556,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0310.jpg 171,331,217,380,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0311.jpg 5,584,106,630,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0313.jpg 527,456,579,507,0 584,530,624,570,0 297,199,345,246,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0315.jpg 403,367,441,399,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0316.jpg 114,109,137,151,0 348,155,402,195,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0317.jpg 601,76,645,111,0 538,386,567,418,0 245,210,276,247,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0318.jpg 112,391,157,472,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0320.jpg 298,185,320,259,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0321.jpg 96,208,121,306,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0322.jpg 403,60,459,224,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0323.jpg 174,169,207,228,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0324.jpg 135,275,167,360,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0325.jpg 337,14,358,92,0 23,526,63,583,0 226,571,288,626,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0326.jpg 235,399,339,456,0 76,13,171,50,0 98,423,142,456,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0327.jpg 222,267,272,327,0 23,427,69,474,0 259,484,316,518,0 537,482,595,516,0 371,198,416,228,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0328.jpg 79,139,99,185,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0330.jpg 137,461,215,606,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0331.jpg 316,521,371,647,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0332.jpg 184,249,371,415,0 323,6,505,167,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0333.jpg 463,179,512,281,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0334.jpg 34,214,164,330,0 587,438,678,503,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0335.jpg 157,433,227,482,0 406,640,438,677,0 289,24,336,56,0 475,252,533,291,0 474,349,517,375,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0336.jpg 66,583,94,663,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0337.jpg 243,14,291,56,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0338.jpg 266,120,366,180,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0339.jpg 477,227,538,280,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0341.jpg 367,175,401,238,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0344.jpg 203,136,265,212,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0346.jpg 364,64,420,93,0 221,142,278,168,0 441,175,489,200,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0347.jpg 161,28,204,108,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0348.jpg 430,275,512,328,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0349.jpg 251,368,348,438,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0350.jpg 25,402,49,442,0 105,387,125,419,0 139,448,169,489,0 76,472,94,518,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0351.jpg 283,54,334,119,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0352.jpg 242,280,269,385,0 171,425,194,473,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0353.jpg 320,149,360,195,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0354.jpg 265,179,290,239,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0355.jpg 30,438,56,535,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0356.jpg 90,218,110,253,0 148,262,173,307,0 356,585,375,633,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0358.jpg 331,303,369,400,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0359.jpg 217,393,256,511,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0360.jpg 40,198,70,244,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0361.jpg 78,27,99,98,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0362.jpg 332,507,378,557,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0364.jpg 522,278,554,312,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0365.jpg 26,334,68,368,0 275,593,326,643,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0366.jpg 119,352,196,437,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0367.jpg 491,273,551,337,0 23,534,110,609,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0369.jpg 199,174,236,235,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0372.jpg 181,344,239,428,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0373.jpg 327,207,398,272,0 527,334,622,445,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0374.jpg 390,217,429,326,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0375.jpg 206,146,246,396,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0376.jpg 106,525,121,589,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0377.jpg 228,249,354,303,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0378.jpg 10,332,42,417,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0379.jpg 291,333,343,399,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0380.jpg 688,482,717,534,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0382.jpg 669,558,742,621,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0383.jpg 256,499,327,580,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0384.jpg 54,474,118,556,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0385.jpg 16,201,70,279,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0386.jpg 316,466,337,660,0 570,6,593,109,0 31,46,79,138,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0387.jpg 737,64,780,177,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0388.jpg 241,452,326,518,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0389.jpg 637,395,725,460,0 373,727,453,792,0 44,481,87,530,0 46,171,91,225,0 576,77,624,140,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0390.jpg 90,418,141,490,0 160,747,235,804,0 707,681,765,749,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0391.jpg 789,480,841,543,0 393,428,444,487,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0392.jpg 247,692,383,810,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0393.jpg 128,95,179,209,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0396.jpg 181,164,294,225,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0397.jpg 683,680,750,738,0 236,641,309,695,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0398.jpg 280,143,399,237,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0399.jpg 190,622,261,711,0 390,105,427,133,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0400.jpg 605,70,700,171,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0401.jpg 198,345,308,492,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0402.jpg 650,87,703,186,0 695,507,759,601,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0403.jpg 142,127,201,235,0 637,697,671,767,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0404.jpg 189,173,290,315,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0405.jpg 711,16,757,123,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0408.jpg 725,36,782,113,0 612,529,637,580,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0409.jpg 328,591,377,683,0 419,411,446,509,0 399,350,423,380,0 552,15,569,69,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0410.jpg 697,674,725,735,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0412.jpg 668,110,748,150,0 523,159,617,207,0 284,304,351,328,0 322,525,416,560,0 660,529,760,570,0 273,720,336,780,0 479,824,526,856,0 12,564,82,617,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0413.jpg 581,545,710,597,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0415.jpg 15,693,213,723,0 251,742,452,774,0 569,647,737,678,0 269,488,409,514,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0416.jpg 695,257,764,290,0 339,63,403,92,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0418.jpg 169,500,247,541,0 8,501,67,535,0 41,595,98,629,0 296,383,356,420,0 271,164,371,210,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0419.jpg 29,375,98,460,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0420.jpg 56,115,136,226,0 229,600,348,729,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0422.jpg 526,616,572,707,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0425.jpg 223,478,256,556,0 668,87,684,150,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0426.jpg 590,73,665,176,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0427.jpg 63,529,214,615,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0428.jpg 174,308,275,346,0 505,621,628,651,0 198,772,310,796,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0429.jpg 408,558,551,637,0 715,734,788,779,0 584,39,754,122,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0430.jpg 119,121,249,188,0 4,535,60,563,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0433.jpg 336,556,389,646,0 484,554,525,659,0 411,149,439,210,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0434.jpg 729,164,758,287,0 683,430,716,493,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0435.jpg 284,486,312,538,0 473,395,508,439,0 401,35,422,86,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0436.jpg 65,698,93,775,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0437.jpg 29,351,68,432,0 320,644,343,701,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0438.jpg 462,641,509,695,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0441.jpg 357,55,377,140,0 178,48,199,119,0 155,140,186,219,0 335,216,360,275,0 643,593,699,668,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0442.jpg 421,571,453,643,0 488,509,532,573,0 617,629,663,709,0 564,42,591,76,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0443.jpg 414,758,436,831,0 53,376,64,416,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0444.jpg 427,601,449,672,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0446.jpg 208,101,257,194,0 308,25,323,67,0 117,377,142,414,0 146,624,184,683,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0448.jpg 606,301,692,506,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0450.jpg 695,143,757,199,0 166,616,238,678,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0451.jpg 82,166,172,263,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0452.jpg 679,61,719,134,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0454.jpg 150,306,172,387,0 132,46,154,127,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0455.jpg 154,322,220,413,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0456.jpg 492,58,533,124,0 11,652,40,713,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0457.jpg 391,75,525,110,0 253,423,319,461,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0460.jpg 342,109,408,208,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0461.jpg 445,327,485,432,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0462.jpg 281,135,334,165,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0463.jpg 222,326,258,401,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0464.jpg 687,87,708,152,0 80,35,115,92,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0466.jpg 491,124,516,190,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0467.jpg 685,599,753,752,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0469.jpg 249,101,272,170,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0470.jpg 46,353,72,500,0 53,687,83,772,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0471.jpg 176,58,208,135,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0472.jpg 567,112,613,167,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0473.jpg 842,549,935,613,0 866,767,891,838,0 443,112,490,152,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0475.jpg 428,310,497,423,0 705,559,760,599,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0476.jpg 696,289,753,325,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0477.jpg 369,167,449,218,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0478.jpg 235,156,279,204,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0479.jpg 188,444,232,516,0 323,187,364,226,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0480.jpg 176,470,200,519,0 41,445,68,492,0 27,529,66,601,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0481.jpg 231,360,258,429,0 550,613,575,677,0 649,737,673,822,0 750,64,765,121,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0483.jpg 311,130,366,232,0 539,134,612,205,0 800,294,826,344,0 463,2,481,152,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0484.jpg 381,17,403,103,0 169,164,206,254,0 58,453,77,543,0 385,628,419,699,0 717,697,765,807,0 557,91,594,175,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0485.jpg 232,255,250,330,0 372,735,392,810,0

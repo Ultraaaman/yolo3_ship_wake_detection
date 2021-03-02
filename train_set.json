@@ -1,0 +1,12 @@
+{
+    "annotation_path": "./2007_train.txt",
+    "log_dir": "./logs/666/",
+    "classes_path": "./model_data/my_classes.txt",
+    "anchors_path": "./model_data/yolo_anchors.txt",
+    "batchsize": 8,
+    "epoch": 100,
+    "load_pretrained": "True",
+    "weights_path": "./model_data/trained_weights.h5"
+    
+
+}

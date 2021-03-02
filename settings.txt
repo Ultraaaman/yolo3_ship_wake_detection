@@ -1,0 +1,17 @@
+#########train############
+batchsize = 32
+learning rate = 0.001
+epoch = 100
+log_dir =  './logs/666/'  #存放训练好的权重参数的路径
+classes_path =  './model_data/my_classes.txt'
+load_pretrained = True
+weights_path = './model_data/trained_weights.h5'
+annotation_path = './2007_train.txt'
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
+#########test###########
+"model_path":  './logs/555/trained_weights.h5'
+"score" : 0.2
+"iou" : 0.3
+test_image = "./test"
+result = "./result"

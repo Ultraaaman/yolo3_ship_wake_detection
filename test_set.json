@@ -1,0 +1,7 @@
+{
+    "model_path":  "./logs/555/trained_weights.h5",
+    "score": 0.2,
+    "iou": 0.3,
+    "test_image_path": "./test",
+    "result_path": "./result"
+}

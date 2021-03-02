@@ -1,0 +1,20 @@
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0009.jpg 320,193,352,249,0 395,811,447,855,0 719,480,845,556,0 682,794,712,837,0 441,474,466,497,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0081.jpg 811,614,862,697,0 20,698,96,795,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0103.jpg 312,155,388,256,0 384,767,446,851,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0113.jpg 218,613,262,688,0 280,391,311,494,0 423,638,433,664,0 417,163,431,197,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0147.jpg 339,548,359,605,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0166.jpg 28,252,53,280,0 107,343,141,373,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0174.jpg 753,30,799,73,0 65,173,113,266,0 57,755,95,815,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0193.jpg 481,494,518,592,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0247.jpg 58,239,112,263,0 357,482,384,578,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0250.jpg 679,362,702,457,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0279.jpg 410,268,428,321,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0303.jpg 126,338,178,411,0 298,464,348,507,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0308.jpg 119,343,163,508,0 159,619,192,729,0 336,468,408,572,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0312.jpg 298,141,352,188,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0314.jpg 165,500,248,537,0 500,174,592,230,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0370.jpg 291,420,312,500,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0411.jpg 96,275,152,300,0 658,75,774,126,0 464,73,531,107,0 321,129,406,166,0 135,502,215,532,0 472,489,573,527,0 86,692,153,751,0 268,785,352,822,0 682,655,726,678,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0421.jpg 202,285,313,464,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0458.jpg 436,398,468,476,0
+D:\Master\yolov3\Yolo_master/VOCdevkit/VOC2007/JPEGImages/0482.jpg 280,145,312,244,0 248,272,283,363,0 348,408,392,513,0
