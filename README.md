@@ -1,10 +1,10 @@
 # 基于Yolo的舰船尾迹检测
-###1. 需要环境：<br>
+### 1. 需要环境：<br>
 ·tensorflow = 1.14.0<br>
 ·keras = 2.1.5<br>
-###2. 训练
-####2.1 数据集准备<br>
-#####(PS:如果你已经准备好了数据集，且就是要检测舰船尾迹，直接跳到第(7)步)
+### 2. 训练
+#### 2.1 数据集准备<br>
+##### (PS:如果你已经准备好了数据集，且就是要检测舰船尾迹，直接跳到第(7)步)
 (1) 在工程下新建一个文件夹VOCdevkit，目录结构为VOCdevkit/VOC2007/,在下面就是新建几个默认名字的文件夹 Annotation，ImageSet（该目录还有三个文件需要建立），JPEGImages(把你所有的图片都复制到该目录里面，如下图）。<br>
 ![Image text](README_img/1.png)
 (2) 生成Annotation下的文件，安装工具labelImg，生成xml文件放入Annotation，注意，命名要与图片名字对应。<br>
@@ -71,7 +71,7 @@ python train.py
 ```
 对训练中的参数进行修改，直接更改配置文件train_set.json即可。
 
-###3. 测试
+### 3. 测试
 ```Bash
 python test.py
 ```
