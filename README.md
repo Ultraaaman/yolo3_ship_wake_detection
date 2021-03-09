@@ -2,6 +2,9 @@
 ### 1. 需要环境：<br>
 ·tensorflow = 1.14.0<br>
 ·keras = 2.1.5<br>
+·matplotlib<br>
+·pillow   (pillow可以代替PIL)<br>
+·h5py = 2.10.0 (反正3.0版本不可以，出现decode错误) <br>
 ### 2. 训练
 #### 2.1 数据集准备<br>
 ##### (PS:如果你已经准备好了数据集，且就是要检测舰船尾迹，直接跳到第(7)步)
